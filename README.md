@@ -7,6 +7,7 @@ Python lists with specific russian words by category
 * russian_cities_by_regions: датафрейм с русскими городами, указана принадлежность к региону (1132 строки)
 * russian_regions: список регионов России (85 строк)
 * russian_stopwords: коллекция русских стопслов – частиц, приставок (автор: genediazjr, https://github.com/stopwords-iso/stopwords-ru) (560 строк)
+* smi_stopwords: набор фраз, встречающихся в малоинформативных строках при парсинге новостных сайтов. 
 
 
 English:
@@ -15,3 +16,4 @@ English:
 * russian_cities_by_regions: dataframe of russian cities affiliated with russian regions (1132 rows)
 * russian_regions: list of russian regions (85 rows)
 * russian_stopwords: collections of russian_stopwords (author: genediazjr, https://github.com/stopwords-iso/stopwords-ru) (560 rows)
+* smi_stopwords: a set of phrases found in uninformative lines when parsing news sites. 
